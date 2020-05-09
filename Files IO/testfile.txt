@@ -1,0 +1,5 @@
+This file will be opened by python.
+Pune
+Mumbai
+Delhi
+Chennai
